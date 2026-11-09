@@ -1,0 +1,7 @@
+{
+  "name": "bani-impeks-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static BANI IMPEKS furniture presentation website",
+  "scripts": { "start": "node server.js" }
+}
